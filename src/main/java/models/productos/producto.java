@@ -7,7 +7,6 @@ public class producto {
     private String nombre;
     private tipoProducto tipo;
     private String descripcion;
-    private ArrayList<producto> productos = new ArrayList<producto>();
     private int precio;
 
     public producto(int id, String nombre, tipoProducto tipo, String descripcion, int precio) {

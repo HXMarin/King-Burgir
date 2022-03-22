@@ -1,4 +1,4 @@
-package models.menus;
+package repositories;
 
 import models.productos.producto;
 
